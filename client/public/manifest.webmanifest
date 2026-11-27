@@ -1,0 +1,15 @@
+{
+  "name": "Добра Справа — платформа добрих ініціатив",
+  "short_name": "Добра Справа",
+  "description": "Навчальний застосунок волонтерських зборів із прозорим прогресом та звітами.",
+  "lang": "uk",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f3",
+  "theme_color": "#174c3c",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
