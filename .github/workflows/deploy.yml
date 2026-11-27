@@ -37,6 +37,8 @@ jobs:
 
       - name: Build website
         working-directory: client
+        env:
+          VITE_API_URL: https://dobra-sprava.onrender.com/api
         run: npm run build
 
       - name: Upload build
